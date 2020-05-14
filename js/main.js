@@ -1,3 +1,3 @@
-import { variable } from './test';
+//import { variable } from './test';
 
 console.log('variable')
